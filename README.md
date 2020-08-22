@@ -17,7 +17,7 @@
   - The two-class split used in our paper (proposed by Zhong et al. CVPR19) can be downloaded here. [[Link](https://github.com/xaggi/claws_eccv/tree/master/shanghai_tech_binary_training_split)] 
 - UCSD Ped2 [[Link](http://www.svcl.ucsd.edu/projects/anomaly/dataset.htm)]
 
-## Other Related Publication from my Project on Anomaly Detection
+## Other Related Publications from my Project on Anomaly Detection
 - Cleaning Label Noise with Clusters for Minimally Supervised Anomaly Detection 
   - Authors: M. Z. Zaheer, J. Lee, M. Astrid, A. Mahmood, S. I. Lee
   - Venue: Computer Vision and Pattern Recognition Workshops (CVPRW), 2020
