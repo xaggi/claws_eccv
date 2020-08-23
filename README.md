@@ -19,27 +19,27 @@
 
 ## Other Related Publications from my Project on Anomaly Detection
 - Cleaning Label Noise with Clusters for Minimally Supervised Anomaly Detection 
+  - Evaluated on: UCF-Crime and ShanghaiTech anomaly datasets.
   - Authors: M. Z. Zaheer, J. Lee, M. Astrid, A. Mahmood, S. I. Lee
   - Venue: Computer Vision and Pattern Recognition Workshops (CVPRW), 2020
   - CVPR talk [[Link1](https://www.youtube.com/watch?v=nJJbueHVot8)] [[Link2](https://sites.google.com/view/luv2020/talks/zaheer)]
   - Workshop on Learning from Unlabeled Videos [[Link](https://sites.google.com/view/luv2020)]
-  - Non-archieved paper
-  - Dataset used: UCF-Crime and ShanghaiTech anomaly datasets.
+  - Non-archieved
   
 - Old is Gold: Redefining the Adversarially Learned One-Class Classifier Training Paradigm
+  - Evaluated on: UCSD Pedestrian2, Caltech256 and MNIST for anomalies and outliers detection.
   - Authors: M. Z. Zaheer, J. Lee, M. Astrid, A. Mahmood, S. I. Lee
   - Venue: Conference on Computer Vision and Pattern Recognition (CVPR), 2020
   - CVPR talk [[Link1](https://www.youtube.com/watch?v=mAfAUwFlUpU)] [[Link2](https://www.youtube.com/watch?v=TQNRR3dvOt0)]
   - Paper PDF [[Link1](https://www.researchgate.net/publication/340683607_Old_is_Gold_Redefining_the_Adversarially_Learned_One-Class_Classifier_Training_Paradigm)] [[Link2](https://arxiv.org/abs/2004.07657)]
   - Results video [[Link](https://www.youtube.com/watch?v=59Lqkkyy9bQ&t=7s)]
-  - Datasets used: UCSD Pedestrian2, Caltech256 and MNIST for anomalies and outliers detection.
 
 - Ensemble Grid Formation to Detect Potential Anomalous Regions Using Context Encoders
+  - Evaluated on: Self-recorded dataset for anomaly detection in moving-camera videos
   - Authors: M. Z. Zaheer, M. Astrid, S. I. Lee, H. C. Shin
   - Venue: International Conference on Control, Automation and Systems (ICCAS), 2018
   - Paper PDF [[Link](https://ieeexplore.ieee.org/abstract/document/8571926)]
   - Results videos [[Video1](https://www.youtube.com/watch?v=KW4wPLv1HYM)] | [[Video2](https://www.youtube.com/watch?v=l5EVXkLWNVc)] | [[Video3](https://www.youtube.com/watch?v=jF_Kuof0Y0A)]
-  - Datasets used: Self-recorded dataset for anomaly detection in moving-camera videos
 
 ## CLAWS Net Results and Comparisons
 - AUC Performance on UCF-Crime
