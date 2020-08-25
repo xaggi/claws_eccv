@@ -59,6 +59,7 @@
 </p>
 
 - ROC Performance
+  - Numerical data of the CLAWS Net ROC plots is provide in an excel file. [[Link](https://github.com/xaggi/claws_eccv/blob/master/ROC_graphs_CLAWS_Net.xlsx)]
 
 <p align="center">
 <img src="https://github.com/xaggi/claws_eccv/blob/master/imgs/roc.JPG" width="650">
