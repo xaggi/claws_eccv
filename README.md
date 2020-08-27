@@ -15,7 +15,7 @@
 - Shanghai Tech [[Link](https://svip-lab.github.io/dataset/campus_dataset.html)]
   - Shannghai Tech anomaly dataset is orgioanlly a one-class training dataset
   - The two-class split used in our paper (proposed by Zhong et al. CVPR19) can be downloaded here. [[Link](https://github.com/xaggi/claws_eccv/tree/master/shanghai_tech_binary_training_split)] 
-- UCSD Ped2 [[Link](http://www.svcl.ucsd.edu/projects/anomaly/dataset.htm)]
+- UCSD Ped2 [[Link1](http://www.svcl.ucsd.edu/projects/anomaly/dataset.htm)] [[Link2](https://drive.google.com/drive/folders/15tFcgb7VfeFkfv9qkpQ2t_Al2UtXE_2M?usp=sharing)]
 
 ## Other Related Publications from my Project on Anomaly Detection
 - Cleaning Label Noise with Clusters for Minimally Supervised Anomaly Detection 
