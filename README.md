@@ -64,6 +64,12 @@
 <img src="https://github.com/xaggi/claws_eccv/blob/master/imgs/roc.JPG" width="650">
 </p>
 
+## False Alarm Rate (FAR)
+Several researchers inquired about the FAR of CLAWS Net and SRF approaches on UCF-Crime dataset, as it is a also a popular evaluation metric in the existing literature. Therefore, I am updating the FAR here: 
+- A Self-Reasoning Framework for Anomaly Detection Using Video-Level Labels, SPL, 2020.
+  - FAR : 0.13
+- Clustering Assisted Weakly Supervised Learning with Normalcy Suppression for Anomalous Event Detection, ECCV, 2020.
+  - FAR : 0.12
 
 ## Anomaly Datasets
 - UCF-Crime  [[Link](https://www.crcv.ucf.edu/projects/real-world/)]
@@ -75,7 +81,8 @@
 
 ## Updates
 [22/08/2020] Our project is still ongoing. The code will be released after completion of the project.  
-[02/08/2020] CLAWS Net ECCV 2020 github page created.
+[02/08/2020] CLAWS Net ECCV 2020 github page created.  
+[21/04/2021] False Alarm Rates of CLAWS Net and SRF are being mentioned on the github page.
 
 ## Misc.
 
