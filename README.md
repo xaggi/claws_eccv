@@ -22,7 +22,7 @@
   - Venue: Computer Vision and Pattern Recognition Workshops (CVPRW), 2020
   - CVPR talk [[Link1](https://www.youtube.com/watch?v=nJJbueHVot8)] [[Link2](https://sites.google.com/view/luv2020/talks/zaheer)]
   - Workshop on Learning from Unlabeled Videos [[Link](https://sites.google.com/view/luv2020)]
-  - Non-archieved
+  - PDF  [[Arxiv](https://arxiv.org/abs/2104.14770)] [[LUV Website](https://sites.google.com/view/luv2020/home)]
   - Authors: M. Z. Zaheer, J. Lee, M. Astrid, A. Mahmood, S. I. Lee
   
 - Old is Gold: Redefining the Adversarially Learned One-Class Classifier Training Paradigm
