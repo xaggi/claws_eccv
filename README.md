@@ -90,10 +90,29 @@ If you have any query, please feel free to contact Zaigham through mzz.pieas /@/
 
  
 ```
-@article{zaheerclaws,
+@inproceedings{zaheer2020claws,
   title={CLAWS: Clustering Assisted Weakly Supervised Learning with Normalcy Suppression for Anomalous Event Detection},
-  author={Zaheer, Muhammad Zaigham and Mahmood, Arif and Astrid, Marcella and Lee, Seung-Ik}
-  booktitle={Proceedings of the IEEE/CVF Europeon Conference on Computer Vision},
-  year={2020}
-  }
+  author={Zaheer, Muhammad Zaigham and Mahmood, Arif and Astrid, Marcella and Lee, Seung-Ik},
+  booktitle={European Conference on Computer Vision},
+  pages={358--376},
+  year={2020},
+  organization={Springer}
+}
+
+@article{zaheer2020self,
+  title={A Self-Reasoning Framework for Anomaly Detection Using Video-Level Labels},
+  author={Zaheer, Muhammad Zaigham and Mahmood, Arif and Shin, Hochul and Lee, Seung-Ik},
+  journal={IEEE Signal Processing Letters},
+  volume={27},
+  pages={1705--1709},
+  year={2020},
+  publisher={IEEE}
+}
+
+@article{zaheer2020cleaning,
+  title={Cleaning label noise with clusters for minimally supervised anomaly detection},
+  author={Zaheer, Muhammad Zaigham and Lee, Jin-ha and Astrid, Marcella and Mahmood, Arif and Lee, Seung-Ik},
+  journal={arXiv preprint arXiv:2104.14770},
+  year={2021}
+}
  ```
