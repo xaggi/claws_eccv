@@ -109,10 +109,10 @@ If you have any query, please feel free to contact Zaigham through mzz.pieas /@/
   publisher={IEEE}
 }
 
-@article{zaheer2020cleaning,
+@inproceedings{cleaning2020zaheer,
   title={Cleaning label noise with clusters for minimally supervised anomaly detection},
-  author={Zaheer, Muhammad Zaigham and Lee, Jin-ha and Astrid, Marcella and Mahmood, Arif and Lee, Seung-Ik},
-  journal={arXiv preprint arXiv:2104.14770},
-  year={2021}
+  author={Zaheer, Muhammad Zaigham and Lee, Jin-Ha and Astrid, Marcella and Mahmood, Arif and Lee, Seung-Ik},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops},
+  year={June 2020}
 }
  ```
